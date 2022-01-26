@@ -1,4 +1,4 @@
-# DevoirDu26Janvier
+# exo_20220126.md
 Devoir Wikidata - Rodin
 
 Voici la requête wikidata permettant de faire afficher sur une carte, les lieux de conservation pour les sculptures d'Auguste Rodin qui ont été créées avant le XXème siècle.
